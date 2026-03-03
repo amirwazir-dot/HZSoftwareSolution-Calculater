@@ -2,7 +2,7 @@
 This is a fully functional, responsive, and visually appealing calculator built using HTML, CSS, and JavaScript. The project is designed to provide a smooth user experience with a modern interface, suitable for both desktop and mobile devices.
 
 🌐 Live Demo
-🔗 View Live Calculator (https://amirwazir-dot.github.io/HZSoftwareSolution-Calculater/)
+🔗 View Live Calculator ( https://amirwazir-dot.github.io/HZSoftwareSolution-Calculater/)
 
 🚀 Features
 Responsive design using media queries
